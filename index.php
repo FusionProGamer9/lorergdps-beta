@@ -11,7 +11,7 @@ include 'config.php';
 
 <body style="background: linear-gradient(#6D00FC, #330074);">
     <center>
-        <img src="logo.png" style="max-width: 40%; height: auto;">
+        <img src="LORERGDPS.png" style="max-width: 40%; height: auto;">
 
         <div>
             <br>
